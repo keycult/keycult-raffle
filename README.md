@@ -46,3 +46,7 @@ There are a few ways to check:
 2. If you can send messages in the Keycult Discord server, you should be good to go.
 3. If you can authenticate and see either the raffle or the “No raffles currently available” message on https://raffle.keycult.com, you should be good to go.
 
+
+# Can't see the raffle? "Looks like we're not currently running any raffles"
+
+Try a hard-refresh using Ctrl-Shift-R.
